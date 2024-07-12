@@ -1,2 +1,2 @@
 # Excel-
-This contains project on Excel
+This contains project on SQL
